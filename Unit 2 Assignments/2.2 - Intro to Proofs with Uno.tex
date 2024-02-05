@@ -1,0 +1,46 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage{preamble}
+\usepackage{tabularx}
+\begin{document}
+
+\section*{Topic: 2.2 Intro to Proofs with Uno}
+\begin{enumerate}
+    \item Recall the rules to UNO. Can you write them all concisely?
+    \item Determine whether this set of plays are legal or not. If they are legal justify why using your set of rules. If not legal, determine where is the illegal move and justify why.
+          \begin{itemize}
+              \item Mr. Freeman, Mr. Pellerin, Mr. Berry, and yourself start a game in that turn order.
+              \item Mr. Freeman plays a red 4,
+              \item Mr. Pellerin a plays a red 7.
+              \item Mr. Berry plays a green 7.
+              \item You play a blue 6.
+          \end{itemize}
+    \item What if Mr. Pellerin played a red skip instead?
+    \item Maybe for those who play board or card games, this may make a little more sense. If a play is illegal and too many turns pass without neither player noticing, the game is in what's called an 'irreparable' or irreversible game state, Meaning that the game can no longer be fixed, and the game is no longer valid. However, the game state may be 'accepted' by both players. Do you think this is allowed for logical proofs?
+    \item The following table showcases a proof for '1=0'. Is there an error? Find it and justify.
+          \begin{tabularx}{0.95\textwidth} {
+                  | >{\raggedright\arraybackslash}X
+                  | >{\centering\arraybackslash}X
+                  | >{\raggedleft\arraybackslash}X |}
+              \hline
+              Statement      & What I did                      & Reason                                \\
+              \hline
+              1.) $x=1$      & Define $x=1$.                   & Given                                 \\
+              \hline
+              2.) $x^2=x$    & Multiply each side by $x$.      & (Multiplication Property of Equality) \\
+              \hline
+              3.) $x^2-x=0$  & Subtract each side by $x$.      & (Subtraction Property of Equality)    \\
+              \hline
+              4.) $x(x-1)=0$ & Factor left hand side.          & (Distributive Property over Addition) \\
+              \hline
+              5.) $x=0$      & Divide by $x-1$.                & (Division Property of Equality)       \\
+              \hline
+              6.) $1=0$      & Since $x=1$ plug it in for $x$. & (Transitive Property of Equality)     \\
+              \hline
+          \end{tabularx}
+
+
+    \item Write your own sequence of UNO moves, and provide the justification for each step.
+    \item If I gave you a red 6, and green 7, how many cards would you need to go from red 6 to green 7? Write a two-column proof with statements and reasons.
+    \item What if I gave you a red 6, green 7, and blu 5? How many cards would you need to go between them all? Write a two-column proof with statements and reasons.
+\end{enumerate}
+\end{document}
