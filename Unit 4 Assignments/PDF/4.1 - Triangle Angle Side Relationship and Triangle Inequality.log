@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  22 FEB 2024 23:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  23 FEB 2024 18:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -469,35 +469,35 @@ Package hyperref Info: Link coloring ON on input line 4.
 \@outlinefile=\write4
 \openout4 = `"4.1 - Triangle Angle Side Relationship and Triangle Inequality.out"'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 10.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 9.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \hbox (31.62137pt too wide) in paragraph at lines 25--26
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Overfull \hbox (8.01837pt too wide) in paragraph at lines 27--28
 [][] 
  []
 
 
-Overfull \hbox (31.62137pt too wide) in paragraph at lines 42--43
-[][] 
- []
-
-
-Overfull \hbox (31.62137pt too wide) in paragraph at lines 59--60
-[][] 
+Overfull \hbox (8.01837pt too wide) in paragraph at lines 33--48
+[] 
  []
 
 [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2] 
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (PDF/4.1 - Triangle Angle Side Relationship and Triangle Inequality.aux)
  ***********
@@ -508,18 +508,18 @@ Package rerunfilecheck Info: File `"4.1 - Triangle Angle Side Relationship and T
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13697 strings out of 475237
- 209346 string characters out of 5764559
- 1934244 words of memory out of 5000000
+ 13694 strings out of 475237
+ 209328 string characters out of 5764559
+ 1941244 words of memory out of 5000000
  34728 multiletter control sequences out of 15000+600000
  566630 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,11n,93p,636b,669s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,11n,93p,636b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "PDF/4.1 - Triangle Angle Side Relationship and Triangle Inequality.pdf" (2 pages, 100676 bytes).
+Output written on "PDF/4.1 - Triangle Angle Side Relationship and Triangle Inequality.pdf" (1 page, 98743 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
+ 62 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
